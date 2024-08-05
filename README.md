@@ -21,7 +21,7 @@ Start the program GUI. Later use the menu ```File/Open``` to load and plot a G-c
 python GCODE_Viewer_2d.py
 ```
 
-The command below directly opens and plots the given file immendiately.
+The command below directly opens and plots the given file immediately.
 
 ```sh
 python GCODE_Viewer_2d.py any_gcode_file.nc
