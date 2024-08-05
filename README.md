@@ -13,6 +13,11 @@ A Python based G-code viewer. It only plots data from the x,y-plane.
 - Python 3 (any version which works with Pyside6)
 - Pyside6 (Qt for Python)
 
+## GUI
+
+![Image](Images/GCODE_Viewer_2D.png)
+
+
 ## Usage
 
 Start the program GUI. Later use the menu ```File/Open``` to load and plot a G-code.
