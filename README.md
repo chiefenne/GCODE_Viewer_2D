@@ -32,7 +32,7 @@ The command below directly opens and plots the given file immediately.
 python GCODE_Viewer_2d.py any_gcode_file.nc
 ```
 
-When clicking the right mouse button acontext menu opens and raster and/or outline can be plotted as well. The raster size is set to a default of 10mm and can be redefined through the context menu.
+When clicking the right mouse button a context menu opens, and raster as well as outline can be toggled on/off. The default raster size is 10mm and it can be redefined through the context menu.
 
 ### Command Line Arguments
 
