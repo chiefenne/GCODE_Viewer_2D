@@ -1,5 +1,5 @@
 # G-code Viewer 2D
-A Python based G-code viewer. It only plots data from the x,y-plane.
+A Python based G-code viewer for 2D contours. It only plots data from the x,y-plane.
 
 ## Features
 
